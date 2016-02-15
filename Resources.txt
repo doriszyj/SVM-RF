@@ -1,0 +1,40 @@
+//IDE Recommendation
+	PyCharm (Academic license available)
+	
+
+//Python Package Handler Recommendation
+	Anaconda
+	https://www.continuum.io/downloads
+
+
+//SVM
+	MIT OpenCourseWare SVM Lecture
+	https://www.youtube.com/watch?v=_PwhiWxHK8o
+
+	Scikit-Learn SVM
+	http://scikit-learn.org/stable/modules/svm.html
+
+	Scikit-Learn SVM Kernels
+	http://scikit-learn.org/stable/modules/svm.html#svm-kernels
+
+//Random Forest
+	General Information
+	http://www.r-web.com.tw/stat/step1.php?method=tree_random_forest
+
+	Tutorial
+	https://www.youtube.com/watch?v=YkVscKsV_qk
+
+	Scikit-Learn Random Forest 
+	http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+//General Data Help
+	UCI Machine Learning Repository
+	http://archive.ics.uci.edu/ml/
+	http://archive.ics.uci.edu/ml/machine-learning-databases/housing/
+
+	Some methods for analysis
+	http://bigdataexaminer.com/uncategorized/how-to-run-linear-regression-in-python-scikit-learn/
+
+//Data Source
+	Boston Housing Data
+	http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html#sklearn.datasets.load_boston
